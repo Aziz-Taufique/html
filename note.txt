@@ -1,0 +1,28 @@
+In HTML, an element is a building block of a web page, consisting of a start tag, content, and an end tag (optional in some cases). Attributes provide additional information about an element and are included in the start tag.
+
+<tagname attribute1="value1" attribute2="value2">Content</tagname>
+
+Components:
+Tag: Denotes the start and end of an element (<tagname> and </tagname>).
+Content: The data enclosed within the tags (e.g., text, nested elements).
+Attributes: Key-value pairs inside the opening tag that modify or provide metadata about the element.
+
+
+2. Example of an HTML Element
+<a href="https://www.example.com" target="_blank">Visit Example</a>
+
+Tag: <a> is the anchor tag.
+Attributes:
+href="https://www.example.com" specifies the link's destination.
+target="_blank" makes the link open in a new tab.
+Content: Visit Example.
+
+
+4. Void Elements
+Some elements do not have closing tags (self-closing or void elements). For example:
+<img src="image.jpg" alt="Image description">
+<br>
+<hr>
+
+
+
